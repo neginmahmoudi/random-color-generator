@@ -1,9 +1,9 @@
 {
   "name": "random-color-generator",
   "version": "1.0.0",
+  "type": "module",
   "main": "index.js",
   "repository": "https://github.com/neginmahmoudi/random-color-generator.git",
   "author": "Negin Mahmoudi <negin.mahmoudii76@gmail.com>",
-  "license": "MIT",
-  "type": "module"
+  "license": "MIT"
 }
