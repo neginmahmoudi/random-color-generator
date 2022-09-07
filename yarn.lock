@@ -1196,6 +1196,11 @@
   resolved "https://registry.yarnpkg.com/@types/prop-types/-/prop-types-15.7.5.tgz#5f19d2b85a98e9558036f6a3cacc8819420f05cf"
   integrity sha512-JCB8C6SnDoQf0cNycqd/35A7MjcnK+ZTqE7judS6o7utxUCg6imJg3QK2qzHKszlTjcj2cn+NwMB2i96ubpj7w==
 
+"@types/randomcolor@^0.5.6":
+  version "0.5.6"
+  resolved "https://registry.yarnpkg.com/@types/randomcolor/-/randomcolor-0.5.6.tgz#c1085077c4ae0f6af60e0ad229d14721b9b3b58c"
+  integrity sha512-lKkW8DGUQpZldTrwa+HM5rY+7eTyaHOMTsnj9ewt7AAwXuMPwBmkLlfh8+SXdgOhBW9iNI4x4zRjQ/TQZkdycQ==
+
 "@types/react-dom@18.0.6":
   version "18.0.6"
   resolved "https://registry.yarnpkg.com/@types/react-dom/-/react-dom-18.0.6.tgz#36652900024842b74607a17786b6662dd1e103a1"
@@ -2188,11 +2193,6 @@ functions-have-names@^1.2.2:
   resolved "https://registry.yarnpkg.com/functions-have-names/-/functions-have-names-1.2.3.tgz#0404fe4ee2ba2f607f0e0ec3c80bae994133b834"
   integrity sha512-xckBUXyTIqT97tq2x2AMb+g163b5JFysYk0x4qxNFwbfQkmNZoiRHb6sPzI9/QV33WeuvVYBUIiD4NzNIyqaRQ==
 
-generate-random-color@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/generate-random-color/-/generate-random-color-1.0.6.tgz#f29c24dcb2b0d920210aeb2ba2b5c127d9b3652d"
-  integrity sha512-wfKBF60YrWBC/raj5w5jZt2gycV8BiluyktIvaT6hA+bSDx/CCgvL/5og59gEObZ7/whQl1pY3PDGVLe6O8t+A==
-
 gensync@^1.0.0-beta.2:
   version "1.0.0-beta.2"
   resolved "https://registry.yarnpkg.com/gensync/-/gensync-1.0.0-beta.2.tgz#32a6ee76c3d7f52d46b2b1ae5d93fea8580a25e0"
@@ -2394,11 +2394,6 @@ inherits@2:
   version "2.0.4"
   resolved "https://registry.yarnpkg.com/inherits/-/inherits-2.0.4.tgz#0fa2c64f932917c3433a0ded55363aae37416b7c"
   integrity sha512-k/vGaX4/Yla3WzyMCvTQOXYeIHvqOKtnqBduzTHpzpQZzAskKMhZ2K+EnBiSM9zGSoIFeMpXKxa4dYeZIQqewQ==
-
-install@^0.13.0:
-  version "0.13.0"
-  resolved "https://registry.yarnpkg.com/install/-/install-0.13.0.tgz#6af6e9da9dd0987de2ab420f78e60d9c17260776"
-  integrity sha512-zDml/jzr2PKU9I8J/xyZBQn8rPCAY//UOYNmR01XwNwyfhEWObo2SWfSl1+0tm1u6PhxLwDnfsT/6jB7OUxqFA==
 
 internal-slot@^1.0.3:
   version "1.0.3"
@@ -2928,11 +2923,6 @@ queue-microtask@^1.2.2:
   version "1.2.3"
   resolved "https://registry.yarnpkg.com/queue-microtask/-/queue-microtask-1.2.3.tgz#4929228bbc724dfac43e0efb058caf7b6cfb6243"
   integrity sha512-NuaNSa6flKT5JaSYQzJok04JzTL1CA6aGhv5rfLW3PgqA+M2ChpZQnAC8h8i4ZFkBS8X5RqkDBHA7r4hej3K9A==
-
-random-hex-color-generator@^1.0.12:
-  version "1.0.12"
-  resolved "https://registry.yarnpkg.com/random-hex-color-generator/-/random-hex-color-generator-1.0.12.tgz#195fedef08f6dbecb9442330f8b789de6b72a708"
-  integrity sha512-4SwGx7eK57okyQT0XBCawKaxU562aDdnhU2DVZF0ZdHCEBaOfw50Ivs3w4J5MiOnkX4HU4UZoPab6jYIGLAmbA==
 
 randomcolor@^0.6.2:
   version "0.6.2"
